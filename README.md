@@ -1,8 +1,8 @@
 <div align = "center">
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=LeeChangWoo&height=150&fontSize=60&desc=🐳%20NodeJS%20Developer&descAlignY=80&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=LeeChangWoo&height=120&fontSize=44&desc=🐳%20NodeJS%20Developer&descAlignY=80&descAlign=60)
 
-<div style="padding-bottom: 40px">
+<div>
     <h3>📚 Tech Stacks</h3>
     <div>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
@@ -39,6 +39,7 @@
     </div>
 </div>
 
+<br>
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px">
