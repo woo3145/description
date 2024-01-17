@@ -46,8 +46,8 @@
   <a href="https://solved.ac/lcwoo3145">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lcwoo3145" alt="Solved.ac 프로필"/>
   </a>
-  <a href="http://mazandi.herokuapp.com/api?handle=lcwoo3145&theme=cold">
-    <img src="http://mazandi.herokuapp.com/api?handle=lcwoo3145&theme=cold" alt="mazandi profile"/>
+  <a href="http://mazandi.herokuapp.com/api?handle=lcwoo3145&theme=warm">
+    <img src="http://mazandi.herokuapp.com/api?handle=lcwoo3145&theme=warm" alt="mazandi profile"/>
   </a>
 </div>
 </div>
